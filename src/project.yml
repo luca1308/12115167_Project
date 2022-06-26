@@ -1,0 +1,16 @@
+name: project
+channels:
+  - defaults
+dependencies:
+  - python
+  - ipykernel
+  - jupyter
+  - spyder
+  - matplotlib-base
+  - plotly
+  - pandas
+  - bs4
+  - selenium
+  - nltk
+  - scikit-learn-intelex
+prefix: C:\Users\lucar\Miniconda3\envs\pf
